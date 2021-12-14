@@ -18,7 +18,7 @@ In order to implement the spell-correction program, we need to have a dictionary
 
 This program is based on the concept of Peter Norvig's spelling correction program. The text file from above is used to generate a serialized dictionary
 
-# websrv.php
+# index.php
 
 This is the main search engine page, that consists of a text box for keyword input and a radio button to select the type of ranking algorithm to use. When the results are ready, it is displayed in a tabular format.
 
